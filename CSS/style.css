@@ -1,0 +1,16 @@
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.raspberry {
+  width: 25%;
+  height: 25%;
+}
+
+.best {
+  background-color: red;
+  color: white;
+  padding: 40px;
+  margin: 20px;
+}
